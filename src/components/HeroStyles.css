@@ -1,0 +1,6 @@
+#card{
+background: rgba(113, 105, 105, 0.15); /* Color de fondo con transparencia */
+  backdrop-filter: blur(10px); /* Efecto de desenfoque */
+  border-radius: 20px; /* Borde redondeado */
+  border: 1px solid rgba(176, 173, 173, 0.2);
+}
